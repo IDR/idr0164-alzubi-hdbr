@@ -191,21 +191,21 @@ Dataset:name:LMX1A	/nfs/bioimage/drop/idr0164-alzubi-hdbr/LMX1A/17pcw 11974 LMX1
 Dataset:name:LMX1A	/nfs/bioimage/drop/idr0164-alzubi-hdbr/LMX1A/CS20 Lmx1a 6.57X.jpg
 Dataset:name:LMX1A	/nfs/bioimage/drop/idr0164-alzubi-hdbr/LMX1A/14 pcw Lmx1a 15.5X.jpg
 Dataset:name:LMX1A	/nfs/bioimage/drop/idr0164-alzubi-hdbr/LMX1A/17PCW LMX1A Low power.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/8PCW 12932 KI67.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS20 Ki67 6.84X (A).jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/13024 14 PCW.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/13997 11 PCW.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/13pcw 16360 KI67 small.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS19 15321 KI67.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS20 15448 MEDLAT KI67.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS20 Ki67 6.84X.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/18pcw 13388 KI67 small.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS23 11682 KI67 Small.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/11pcw 13997 KI67 Small.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/14pcw 13750 KI67 a small.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/10pcw 11994 KI67 small.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/17pcw 11974 KI67 small.jpg
-Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/13388 18 PCW.jpg
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/10pcw 11994 KI67 small.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/11pcw 13997 KI67 Small.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/13024 14 PCW.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/13388 18 PCW.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/13997 11 PCW.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/13pcw 16360 KI67 small.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/14pcw 13750 KI67 a small.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/17pcw 11974 KI67 small.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/18pcw 13388 KI67 small.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/8PCW 12932 KI67.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS19 15321 KI67.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS20 15448 MEDLAT KI67.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS20 Ki67 6.84X (A).ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS20 Ki67 6.84X.ome.tiff
+Dataset:name:MKI67	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67/CS23 11682 KI67 Small.ome.tiff
 Dataset:name:MKI67-AIF1	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67-AIF1/19pcw-NP-155-10-7.svs
 Dataset:name:MKI67-AIF1	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67-AIF1/CS18-327-7pcw.svs
 Dataset:name:MKI67-AIF1	/nfs/bioimage/drop/idr0164-alzubi-hdbr/MKI67-AIF1/12044-51-10pcw.svs
