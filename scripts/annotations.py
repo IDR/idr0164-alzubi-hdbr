@@ -7,8 +7,8 @@ def read_csv_to_dict(input_file):
         reader = csv.DictReader(f)
         return list(reader)
 
-def process_ndpi_rows(data):
-    """Duplicate rows where Image Name ends with ndpi."""
+def process_rows(data):
+    """ Process rows of data. """
     processed_data = []
     for row in data:
         if row['Image Name'].endswith('.ndpi'):
@@ -20,6 +20,16 @@ def process_ndpi_rows(data):
             processed_data.append(macro)
             mask = row.copy()
             mask['Image Name'] = row['Image Name'].replace('.ndpi', '.ndpi [macro mask image]')
+            processed_data.append(mask)
+        elif row['Image Name'].endswith('.svs'):
+            main = row.copy()
+            main['Image Name'] = row['Image Name'].replace('.svs', '.svs [0]')
+            processed_data.append(main)
+            macro = row.copy()
+            macro['Image Name'] = row['Image Name'].replace('.svs', '.svs [macro image]')
+            processed_data.append(macro)
+            mask = row.copy()
+            mask['Image Name'] = row['Image Name'].replace('.svs', '.svs [label image]')
             processed_data.append(mask)
         else:
             processed_data.append(row)
@@ -46,8 +56,8 @@ def main():
     # Read CSV as dictionary
     data = read_csv_to_dict(input_file)
     
-    # Duplicate rows where Image Name ends with ndpi
-    processed_data = process_ndpi_rows(data)
+    # Process rows
+    processed_data = process_rows(data)
     
     # Write processed data to new CSV
     write_dict_to_csv(processed_data, output_file)
