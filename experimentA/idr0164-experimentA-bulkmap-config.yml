@@ -43,9 +43,6 @@ columns:
     clientname: Probe 3
     include: true
 
-  - name: Channels
-    include: true
-
   - name: Visualisation Method
     include: true
 
