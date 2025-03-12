@@ -352,6 +352,7 @@ Dataset:name:Neural_markers_CS23	/uod/idr/filesets/idr0164-alzubi-hdbr/neural_ma
 Dataset:name:Neural_markers_CS23	/uod/idr/filesets/idr0164-alzubi-hdbr/neural_markers_CS23/CS23_12780_ASCL1_LHX6-Stitching-10X.czi
 Dataset:name:Neural_markers_CS23	/uod/idr/filesets/idr0164-alzubi-hdbr/neural_markers_CS23/CS23_12780_ASCL1_NKX2.1-Stitching-10X.czi
 Dataset:name:Neural_markers_CS23	/uod/idr/filesets/idr0164-alzubi-hdbr/neural_markers_CS23/CS23_12780_DLX2_ASCL1_Stitching-10X.czi
+Dataset:name:Neural_markers_CS23	/uod/idr/filesets/idr0164-alzubi-hdbr/neural_markers_CS23/CS23_12602_scgn_calb-Stitching-10x.czi
 Dataset:name:NFIA	/uod/idr/filesets/idr0164-alzubi-hdbr/NFIA/CS18-MERGE-NFIA488.10X.A.tif
 Dataset:name:NFIA	/uod/idr/filesets/idr0164-alzubi-hdbr/NFIA/CS18-MERGE-NFIA488.10X.B.tif
 Dataset:name:NFIA	/uod/idr/filesets/idr0164-alzubi-hdbr/NFIA/CS18-MERGE-NFIA488.10X.D.tif
@@ -398,7 +399,7 @@ Dataset:name:SNAI2-SOX2	/uod/idr/filesets/idr0164-alzubi-hdbr/SNAI2-SOX2/CS12-ME
 Dataset:name:SNAI2-SOX2	/uod/idr/filesets/idr0164-alzubi-hdbr/SNAI2-SOX2/CS12-MERGE-SNAI2488-SOX2594.20X.C-interlimb.tif
 Dataset:name:SNAI2-SOX2	/uod/idr/filesets/idr0164-alzubi-hdbr/SNAI2-SOX2/CS12-MERGE-SNAI2488-SOX2594.20X.A-interlimb.tif
 Dataset:name:SOX11	/uod/idr/filesets/idr0164-alzubi-hdbr/SOX11/CS23_2150_sox11.svs
-Dataset:name:SOX11-GNRHR	/uod/idr/filesets/idr0164-alzubi-hdbr/SOX11-GNRHR/CS23_1540_150.svs
+Dataset:name:SOX11-GNRHR	/uod/idr/filesets/idr0164-alzubi-hdbr/SOX11-GNRHR/CS20_1540_150.svs
 Dataset:name:SOX11-GNRHR	/uod/idr/filesets/idr0164-alzubi-hdbr/SOX11-GNRHR/CS21_12269_49a.ome.tiff
 Dataset:name:SOX2-FN1	/uod/idr/filesets/idr0164-alzubi-hdbr/SOX2-FN1/20200825.lif - 12pcw fibronectin 1 (RGB).tif
 Dataset:name:SOX2-MKI67-PECAM1	/uod/idr/filesets/idr0164-alzubi-hdbr/SOX2-MKI67-PECAM1/20210312 slides KI67.lif - 14206-10 4 (RGB).tif
