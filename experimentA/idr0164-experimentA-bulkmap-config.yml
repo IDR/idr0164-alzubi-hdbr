@@ -43,11 +43,16 @@ columns:
     clientname: Probe 3
     include: true
 
+  - name: Channels
+    clientname: Channels
+    include: yes
+
   - name: Visualisation Method
     include: true
 
   - name: Expression Pattern Description
     include: true
+
 
   ######################################################################
   # mapr groups
