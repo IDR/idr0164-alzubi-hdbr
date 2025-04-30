@@ -1,0 +1,102 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.	
+# STUDY DESCRIPTION SECTION																																																																	
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details												
+Comment[IDR Study Accession]	idr0164																																																															
+Study Title	Gene expression in human embryonic and fetal development																																																																
+Study Type	protein localization	in-situ hybridization assay																																																																
+Study Type Term Source REF	EFO	EFO																																																																
+Study Type Term Accession	GO_0008104	OBI_0001686																																																																
+Study Description	Gene expression analysis in early human development CS12 to 22 post conception weeks.				
+Study Key Words	Human embryo	Human fetus																																																																
+Study Organism	Homo sapiens																																																																
+Study Organism Term Source REF	NCBITaxon																																																																
+Study Organism Term Accession	9606																																																															
+Study Experiments Number	1																																																																
+Study External URL
+Study BioImage Archive Accession																																																																
+Study Public Release Date																																																																
+																																																																	
+# Study Publication																																																																	
+Study PubMed ID	35224745																																																														
+Study Publication Title	Tyramide signal amplification coupled with multiple immunolabeling and RNAScope in situ hybridization in formaldehyde-fixed paraffin-embedded human fetal brain					
+Study Author List	Alzu'bi A, Sankar N, Crosier M, Kerwin J, Clowry GJ																
+Study PMC ID	PMC9178390																																																																
+Study DOI	https://doi.org/10.1111/joa.13644																																																																
+																																																																	
+# Study Contacts																																																																	
+Study Person Last Name	Kerwin																																																																
+Study Person First Name	Janet																																																																
+Study Person Email	janet.kerwin@newcastle.ac.uk																																																																
+Study Person Address	HDBR, Newcastle University, International Centre for Life, Newcastle, NE1 4EP				
+Study Person ORCID	https://orcid.org/0009-0006-5163-2405																																																																
+Study Person Roles	submitter																																																																
+																																																																	
+# Study License and Data DOI																																																																	
+Study License	CC BY 4.0																																																																
+Study License URL	https://creativecommons.org/licenses/by/4.0/																																																																
+Study Copyright	Alzu'bi et al																																																																
+Study Data Publisher	University of Dundee																																																																
+Study Data DOI																																																																
+																																																																	
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																																																													
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/																			
+																																																																	
+																																																																	
+# EXPERIMENT SECTION																																																																	
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment	
+																																																																	
+Experiment Number	1
+Comment[IDR Experiment Name]	idr0164-alzubi-hdbr/experimentA
+Experiment Sample Type	tissue																																																														
+Experiment Description	Immunohistochemistry, immunofluorescence, RNAscope and in situ hybridization analysis in early human development from Carnegie Stage 12 to 22 weeks post conception.
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):	Total Tb: 																																																				
+Experiment Example Images	20210810 slides ITGA fibro 40um.lif - 14170-ITGA fibro 1-1.tif																																																																
+Experiment Imaging Method	bright-field microscopy	fluorescence microscopy
+Experiment Imaging Method Term Source REF	Fbbi																																																																
+Experiment Imaging Method Term Accession	FBbi_00000243	FBbi_00000246																																																												
+Experiment Organism																																																																	
+Experiment Organism Term Source REF	NCBITaxon																																																																
+Experiment Organism Term Accession																																																																
+Experiment Comments																																																																	
+																																																																	
+# assay files																																																																	
+Experiment Assay File	idr0164-experimentA-annotation.csv																																																																
+Experiment Assay File Format	tab-delimited text																																																																
+Assay Experimental Conditions																																																																	
+Assay Experimental Conditions Term Source REF																																																																	
+Assay Experimental Conditions Term Accession																																																																
+Quality Control Description																																																														
+																																																																	
+# Protocols																																																																	
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol	
+
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol	
+
+Protocol Type Term Source REF	EFO	EFO																																																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																																																															
+Protocol Description																																																													
+																																																																	
+# Phenotypes																																																																	
+Phenotype Name																																																																
+Phenotype Description																																																																	
+Phenotype Score Type																																																																	
+Phenotype Term Source REF	CMPO																																																																
+Phenotype Term Name																																																																	
+Phenotype Term Accession			 																																																																																																																												
+																																																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)																																																																	
+Feature Level Data File Name																																																																	
+Feature Level Data File Format																																																																	
+Feature Level Data File Description																																																																	
+Feature Level Data Column Name																																																														
+Feature Level Data Column Description																																																															
+																																																																	
+#  Processed Data Files 																																																																	
+Processed Data File Name																																																																	
+Processed Data File Format	tab-delimited text																																																																
+Processed Data File Description																																																																	
+Processed Data Column Name																																																																
+Processed Data Column Type																																																																	
+Processed Data Column Annotation Level																																																																	
+Processed Data Column Description																																																													
+Processed Data Column Link To Assay File	
