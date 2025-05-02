@@ -1,0 +1,30 @@
+---
+channels:
+    1:
+        active: true
+        color: 0000FF
+        end: 14827.0
+        label: DAPI
+        max: 65535.0
+        min: 0.0
+        start: 4477.0
+    2:
+        active: true
+        color: 00FF00
+        end: 9505.0
+        label: EGFP
+        max: 65535.0
+        min: 0.0
+        start: 1696.0
+    3:
+        active: true
+        color: FF0000
+        end: 15183.0
+        label: Texas Red
+        max: 65535.0
+        min: 0.0
+        start: 2013.0
+greyscale: false
+t: 1
+version: 2
+z: 1

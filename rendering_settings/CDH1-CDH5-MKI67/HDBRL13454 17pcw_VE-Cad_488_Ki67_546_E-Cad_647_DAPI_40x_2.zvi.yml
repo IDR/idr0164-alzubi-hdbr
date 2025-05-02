@@ -1,0 +1,38 @@
+---
+channels:
+    1:
+        active: true
+        color: 0000FF
+        end: 2854.0
+        label: DAPI
+        max: 2854.0
+        min: 32.0
+        start: 32.0
+    2:
+        active: true
+        color: 00FF00
+        end: 4095.0
+        label: Alexa 488
+        max: 4095.0
+        min: 59.0
+        start: 59.0
+    3:
+        active: true
+        color: FF1100
+        end: 3608.0
+        label: Alexa 568
+        max: 3608.0
+        min: 110.0
+        start: 110.0
+    4:
+        active: false
+        color: FFFFFF
+        end: 2415.0
+        label: Alexa 647
+        max: 2415.0
+        min: 100.0
+        start: 100.0
+greyscale: false
+t: 1
+version: 2
+z: 1

@@ -1,0 +1,30 @@
+---
+channels:
+    1:
+        active: true
+        color: 0000FF
+        end: 12328.0
+        label: DAPI
+        max: 65535.0
+        min: 0.0
+        start: 3582.0
+    2:
+        active: true
+        color: 00FF00
+        end: 11346.0
+        label: EGFP
+        max: 65535.0
+        min: 0.0
+        start: 696.0
+    3:
+        active: true
+        color: FF0000
+        end: 7994.0
+        label: Rhodamine
+        max: 65535.0
+        min: 0.0
+        start: 800.0
+greyscale: false
+t: 1
+version: 2
+z: 1

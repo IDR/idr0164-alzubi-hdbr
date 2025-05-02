@@ -1,0 +1,38 @@
+---
+channels:
+    1:
+        active: true
+        color: 0000FF
+        end: 255.0
+        label: Leica/DAPI
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    2:
+        active: true
+        color: 00FFFF
+        end: 255.0
+        label: Leica/ALEXA 488
+        max: 221.0
+        min: 0.0
+        start: 0.0
+    3:
+        active: true
+        color: FF00FF
+        end: 255.0
+        label: Leica/ALEXA 555
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    4:
+        active: true
+        color: 00FFFF
+        end: 255.0
+        label: '3'
+        max: 218.0
+        min: 0.0
+        start: 0.0
+greyscale: false
+t: 1
+version: 2
+z: 3
