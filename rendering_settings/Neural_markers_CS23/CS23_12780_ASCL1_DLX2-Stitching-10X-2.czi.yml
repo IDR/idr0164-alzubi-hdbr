@@ -1,0 +1,18 @@
+channels:
+  1:
+    active: true
+    color: 0000FF
+    end: '2255'
+    start: '557'
+  2:
+    active: true
+    color: 00FF00
+    end: '1292'
+    start: '369'
+  3:
+    active: true
+    color: FF0000
+    end: '1514'
+    start: '369'
+greyscale: false
+version: 2

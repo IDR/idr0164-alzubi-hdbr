@@ -1,0 +1,18 @@
+channels:
+  1:
+    active: true
+    color: 0000FF
+    end: '16383'
+    start: '8051'
+  2:
+    active: true
+    color: 00FF00
+    end: '9926'
+    start: '735'
+  3:
+    active: true
+    color: FF0000
+    end: '6421'
+    start: '1447'
+greyscale: false
+version: 2
